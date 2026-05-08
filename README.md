@@ -290,12 +290,13 @@ Principais funcionalidades já operacionais:
 
 ## 🖼️ Capturas de Tela
 
- <a href=" "><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102911341/586872965-8bb49393-0c90-4184-80d8-be202bfdc344.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260503T193430Z&X-Amz-Expires=300&X-Amz-Signature=07d69abbdd9305f5820adc2aab2537c6b4b2c9c5cf91c60ac0bef3a5f6e3e108&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" alt="dashboard-vendas-excel-dio1" border="0"></a>
+ ### Página 1 - Sistema rateio
+![Página 1](src/images/1-sistema-rateio-cemig.png)
 
- <img width="1786" height="616" alt="Image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102911341/586873972-53998114-7370-43f0-b6fa-616030734b34.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260503T194707Z&X-Amz-Expires=300&X-Amz-Signature=b1a7321cf028d2e980f0a308ec8498650ac4a0005121bb19840f0eeea97b71ac&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" />
-
-
- <img width="1786" height="616" alt="Image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102911341/586874148-6cc220b0-aeff-46a7-8cb0-50933e7c0b5d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260503T194949Z&X-Amz-Expires=300&X-Amz-Signature=0da2f76850fd6260bbc60b5ebbcde738295e71e38ec22931c748c74bb6082ed8&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" />
+ ### Página 2 –  sistema rateio
+![Página 2](src/images/2-sistema-rateio-cemig.png)
+### Página 3 – Planilha base
+![Página 3](src/images/logica-planilha-base-rateio.png)
 
  ## 📌 Objetivo
  ##### Protótipo voltado a necessidade do cliente app ImoDan
